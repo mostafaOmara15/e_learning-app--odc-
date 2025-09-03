@@ -1,16 +1,23 @@
-# flutter_workshop_odc
+# 📚 E-Learning--ODC
 
-A new Flutter project.
+**E-Learning--ODC** is a mobile application built with **Flutter** that provides an interactive and user-friendly platform for online education.  
+The app helps students and learners access courses, track their progress, and improve their skills anytime, anywhere.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📖 About the Project
+- 📚 Browse and enroll in courses across different categories  
+- 🎥 Watch video lessons and access learning materials  
+- 📝 Quizzes and assessments to track understanding  
+- 👩‍🏫 Instructor and student profiles  
+- 🔔 Notifications and reminders for new content  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎬 Demo Video
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-blue?style=for-the-badge)](https://drive.google.com/uc?export=download&id=15TqajA0094Gx5nrs6oetQw1AoDtcdZ92)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+```markdown
+![Home Screen](assets/screenshots/home.png)
+![Course Screen](assets/screenshots/course.png)
